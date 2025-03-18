@@ -1,2 +1,2 @@
 # IT2223_Practicals
-Design and Analysis for Algorithms
+Check all the Readme files inside the folders
