@@ -5,17 +5,20 @@
 
 ## Insertion Sort
 
-![i](https://github.com/user-attachments/assets/484efc1b-ac20-4b63-8b61-bb0186ff3c08)
+<img width="362" alt="2" src="https://github.com/user-attachments/assets/ce284338-c3a3-433e-a4c6-f4e53f572f99" />
+
 
 
 ## Merge Sort
 
-![m](https://github.com/user-attachments/assets/756c098f-ea98-4fb5-9dc2-4d9710b43842)
+<img width="532" alt="3" src="https://github.com/user-attachments/assets/8d8bc073-163c-42dc-913a-24e5f8c0a226" />
+
 
 
 ## Quick Sort
 
-![q](https://github.com/user-attachments/assets/c6d69da8-3c4d-40c4-845f-fc04de0721ce)
+<img width="511" alt="4" src="https://github.com/user-attachments/assets/a35486fa-69a7-4e96-bca4-7b26ed79309c" />
+
 
 
 ## selection Sort
